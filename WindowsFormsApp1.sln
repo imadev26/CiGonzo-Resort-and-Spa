@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{E54F2CB4-0E0B-46EE-A0B1-82C0EAE0BA95}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CiGonzo V3", "CiGonzo V3\CiGonzo V3.vdproj", "{DEA3F5A9-7E24-48BA-A584-5D1C881BC63A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E54F2CB4-0E0B-46EE-A0B1-82C0EAE0BA95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E54F2CB4-0E0B-46EE-A0B1-82C0EAE0BA95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E54F2CB4-0E0B-46EE-A0B1-82C0EAE0BA95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E54F2CB4-0E0B-46EE-A0B1-82C0EAE0BA95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEA3F5A9-7E24-48BA-A584-5D1C881BC63A}.Debug|Any CPU.ActiveCfg = Debug
+		{DEA3F5A9-7E24-48BA-A584-5D1C881BC63A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B71E2938-9137-46A4-B9E6-892B5A35EA5F}
+	EndGlobalSection
+EndGlobal
